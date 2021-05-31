@@ -19,10 +19,10 @@ Python modules required to run the code:
 * matplotlib [documentation](https://matplotlib.org/)
 * inquirer [documentation](https://python-inquirer.readthedocs.io/en/latest/)
 
-Note: GitHub__LIM_ShowFromJSON.py is the main file that calls the other .py files in this order:
+Note: [GitHub__LIM_ShowFromJSON.py](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization/blob/main/GitHub__LIM_ShowFromJSON.py) is the main file that calls the other .py files in this order:
 
-* [GitHub__LIM_SlotPoleCalculation.py]()
-* [GitHub__LIM_Grid.py]()
-* [GitHub__LIM_Show.py]()
+* [GitHub__LIM_SlotPoleCalculation.py](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization/blob/main/GitHub__LIM_SlotPoleCalculation.py)
+* [GitHub__LIM_Grid.py](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization/blob/main/GitHub__LIM_Grid.py)
+* [GitHub__LIM_Show.py](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization/blob/main/GitHub__LIM_Show.py)
 
 Make sure to run GitHub__LIM_ShowFromJSON.py from a terminal or the user input functionality will not work
