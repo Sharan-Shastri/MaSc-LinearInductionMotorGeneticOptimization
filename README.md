@@ -25,4 +25,6 @@ Note: [GitHub__LIM_ShowFromJSON.py](https://github.com/MichaelThamm/MaSc-LinearI
 * [GitHub__LIM_Grid.py](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization/blob/main/GitHub__LIM_Grid.py)
 * [GitHub__LIM_Show.py](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization/blob/main/GitHub__LIM_Show.py)
 
+----------VERY IMPORTANT----------
 Make sure to run GitHub__LIM_ShowFromJSON.py from a terminal or the user input functionality will not work
+You must also change to the correct directory that contains these files and execute the GitHub__LIM_ShowFromJSON.py using "python GitHub__LIM_ShowFromJSON.py"
